@@ -23,7 +23,9 @@ function Dashboard(props) {
               <div className='punch_container'>
                   <h4 className='tile_heading'> <FaStopwatch style={{fontSize: "20"}}/> Time at Work</h4>
                   <div className='punch_container_main'>
-                    <div className='punch_container_top'></div>
+                    <div className='punch_container_top'>
+                      
+                    </div>
                     <div className='punch_container_bottom'></div>
                   </div>
               </div>
